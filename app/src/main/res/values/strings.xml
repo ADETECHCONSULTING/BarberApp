@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Haircut</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Find your barber</string>
+    <string name="tab_text_2">Ask for a Haircut</string>
+    <string name="tab_text_3">Latest reviews</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="lorem">Il est avec la tondeuse ce que Zidane était avec un ballon. Un crack dans son domaine, dont le talent est désormais reconnu mondialement. De Cristiano Ronaldo à Neymar, en passant par Aubameyang, nombreux sont les footballeurs à avoir confié leurs cheveux à "Caiolas Barber".</string>
+    <string name="url_1">https://archzine.fr/wp-content/uploads/2017/02/coupe-homme-rase%CC%81-sur-les-cote%CC%81s-de%CC%81grade%CC%81-a-blanc-afro.jpg</string>
+    <string name="url_2">https://thebrideshairstylist.com/wp-content/uploads/2018/01/1515013093-coupe-courte-homme-noir-coiffure-degrade-americain-afro-e1487760741426.jpeg</string>
+    <string name="url_3">https://i0.wp.com/www.coiffurecheveux-2017.info/wp-content/uploads/2017/09/coupe-de-cheveux-homme-noir-degrade-belles-coiffures-de-cheveux.jpg?fitu003d580%2C583</string>
+</resources>
